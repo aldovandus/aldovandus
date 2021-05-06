@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Aldo Vandus 👋 
+
+
+🔭 I’m currently working as Front-end Developer
+
+🌱 I’m currently learning NextJS and Rust
 
 <!--
 **aldovandus/aldovandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
