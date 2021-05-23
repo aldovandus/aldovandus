@@ -1,7 +1,7 @@
 ### Hi there I'm Aldo Vandus 👋 
 
 
-🔭 I’m currently working as Front-end Developer
+🔭 I’m currently working as React/React Native Developer
 
 🌱 I’m currently learning NextJS and Rust
 
